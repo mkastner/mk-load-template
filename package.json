@@ -1,0 +1,11 @@
+{
+  "name": "mk-load-template",
+  "version": "0.0.1",
+  "description": "Load a template/environment file",
+  "main": "index.js",
+  "author": "John Galt",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
